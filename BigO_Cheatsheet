@@ -1,7 +1,9 @@
 # Big Os 
 **O(1)** Constant – no loops
 
-**O(log N)** Logarithmic – usually searching algorithms have log n if they are sorted (Binary Search) O(n) Linear – for loops, while loops through n items
+**O(log N)** Logarithmic – usually searching algorithms have log n if they are sorted (Binary Search) 
+
+**O(n)** Linear – for loops, while loops through n items
 
 **O(n log(n))** Log Linear – usually sorting operations
 
