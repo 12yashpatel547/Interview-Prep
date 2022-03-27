@@ -44,7 +44,8 @@ etc.. What is the main goal?
 
 [✅]Low Space Complexity --> Recursion can cause stack overflow, copying of large arrays may exceed memory of machine
 
-##Heurestics to ace the question: 
+## Heurestics to ace the question: 
+
 [✅]Hash Maps are usually the answer to improve Time Complexity
 
 [✅]If it's a sorted array, use Binary tree to achieve O(log N). Divide and Conquer - Divide a data set into smaller chunks and then repeating a process with a subset of data. Binary search is a great example of this
