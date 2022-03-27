@@ -1,9 +1,9 @@
 function mergeSortedArrays(array1, array2){
   // Check Input
-  if(array1.length === 0) {
+  if(!array1 || array1.length === 0) {
     return array2;
   }
-  if(array2.length === 0) {
+  if(!array2 || array2.length === 0) {
     return array1;
   }
   const mergedArray = [];
